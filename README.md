@@ -1,4 +1,4 @@
-#How to run test:
+# How to run test:
 - add all unit test jars in `lib` folder to your classpath.
 - I have added predefined test files under `resources` folder.
 
